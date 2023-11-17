@@ -1,12 +1,8 @@
 <div align="center">
 
-# Curriculum Marcela
+# Curriculum Marcela Garavito
 
-Is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Este proyecto da vida a mi curriculum Vitae, usando HTML, CSS, and JavaScript de manera interactiva.
+Aquí comparto un poco sobre mi, mi formación educativa, mis habilidades y mis proyectos.
+Te invito a conocerme un poco mas :)
 
-
-
-
-## License
-
-This project is **free to use** and does not contains any license.
